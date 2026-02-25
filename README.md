@@ -2,6 +2,9 @@
 
 Completed the Blueshift Anchor Vault challenge. Simple escrow program on Solana using Anchor.
 
+<img width="475" height="575" alt="Screenshot 2026-02-25 at 7 12 04 PM" src="https://github.com/user-attachments/assets/5c77a42a-f00a-4ed9-b30a-daf7c88fdd1f" />
+
+
 ## What it does
 
 - Deposit SOL into a PDA vault
